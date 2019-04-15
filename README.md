@@ -1,5 +1,7 @@
 # TaskManager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chingaloEric/task-manager.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 ## Development server
